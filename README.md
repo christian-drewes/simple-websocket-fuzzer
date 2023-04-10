@@ -10,4 +10,4 @@ pip install -r requirements.txt
 
 Main/Fuzzer.py run the GUI application
 
-server.py is a test server 
+servertest.py is a test server 
